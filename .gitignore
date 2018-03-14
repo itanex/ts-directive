@@ -1,0 +1,19 @@
+# External Modules
+node_modules
+bower_components
+**/wwwroot/lib
+
+# User Specific Files/Directories
+.vs
+*.user
+*lock*
+
+# Compile Targets
+bin
+obj
+
+*.js
+*.js.map
+
+# log Files
+*.log

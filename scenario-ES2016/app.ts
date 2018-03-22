@@ -1,4 +1,4 @@
-module Test {
+module Test.ES2016 {
 
     export class TestController {
         public message: string = 'Hello world'

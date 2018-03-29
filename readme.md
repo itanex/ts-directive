@@ -14,7 +14,8 @@ This pattern was tested in 1.8.36, 2.6.2 and 2.7.2. Each version was tested gene
 
 ## ES5
 
-> Test Result -> **Success**
+> Test Result (AngularJS 1.4.4) -> **Success**
+> Test Result (AngularJS 1.5.0) -> **Success**
 
 This target generates code that angular will properly build the controller as expected
 
@@ -24,7 +25,8 @@ This target generates code that angular will properly build the controller as ex
 
 ## ES6
 
-> Test Result -> **Failure**
+> Test Result (AngularJS 1.4.4) -> **Failure**
+> Test Result (AngularJS 1.5.0) -> **Success**
 
 This target generates code that angular will **NOT** properly build the controller as expected. This will cause a runtime error.
 
@@ -36,7 +38,8 @@ This target generates code that angular will **NOT** properly build the controll
 
 ## ES2015
 
-> Test Result -> **Failure**
+> Test Result (AngularJS 1.4.4) -> **Failure**
+> Test Result (AngularJS 1.5.0) -> **Success**
 
 This target generates code that angular will **NOT** properly build the controller as expected. This will cause a runtime error.
 
@@ -48,7 +51,8 @@ This target generates code that angular will **NOT** properly build the controll
 
 ## ES2016
 
-> Test Result -> **Failure**
+> Test Result (AngularJS 1.4.4) -> **Failure**
+> Test Result (AngularJS 1.5.0) -> **Success**
 
 This target generates code that angular will **NOT** properly build the controller as expected. This will cause a runtime error.
 
@@ -60,7 +64,8 @@ This target generates code that angular will **NOT** properly build the controll
 
 ## ES2017
 
-> Test Result -> **Failure**
+> Test Result (AngularJS 1.4.4) -> **Failure**
+> Test Result (AngularJS 1.5.0) -> **Success**
 
 This target generates code that angular will **NOT** properly build the controller as expected. This will cause a runtime error.
 
@@ -72,7 +77,8 @@ This target generates code that angular will **NOT** properly build the controll
 
 ## ES2018
 
-> Test Result -> **Failure**
+> Test Result (AngularJS 1.4.4) -> **Failure**
+> Test Result (AngularJS 1.5.0) -> **Success**
 
 This target generates code that angular will **NOT** properly build the controller as expected. This will cause a runtime error.
 
